@@ -1,9 +1,9 @@
 export let people = [{
-    name: "John",
+    name: 'John',
     age: 36,
-    hairColor: "white"
+    hairColor: 'white',
 }, {
-    name: "Al",
+    name: 'Al',
     age: 30,
-    hairColor: "brown"
+    hairColor: 'brown',
 }];
